@@ -5,10 +5,10 @@ A Recreation of the Better Builder's Wand Mod as a Datapack. For Version 1.14 an
 
 # If this Datapack is installed, a new advancement tab shows up to let you know it's installed. 
 
-Picture here 
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-21_10.36.04.png)
  
 The Icon is the texture of the Builder's Wand. If you don't have the texturepack installed the Icon will show the barrier texture. This is in Accordance to the Conventions of the [Minecraft Datapacks Discord](https://discord.gg/56ySADc)
-The description shows that you can type a command into chat: "/trigger set 4". This command can be used by any player, not just Operators. This command brings up a chat message ingame that you can also read up on in the following:
+The description shows that you can type a command into chat: "**/trigger bw_mcxyz set 4**". This command can be used by any player, not just Operators. This command brings up a chat message ingame that you can also read up on in the following:
 _______________________________________________________________________________________________________________________________
 
 There are 4 Tiers of Wands, and each has a different Durability and maximum amount of Blocks that it can set at once:
@@ -39,8 +39,12 @@ The Items have to have the correct count. It won't work if you throw 3 Sticks or
 
 # Installation
 
-Download the files from the 1.14 Folder.
-There are two zipfiles in each Folder. 
+This Datapack has a dependency on [**Minecraft Phi - Shared Utilities for Minecraft Datapacks**](https://github.com/MinecraftPhi/MinecraftPhi-modules).  
+
+Phi is a Utility Library, split into modules. You will need to install the modules **phi.core** and **phi.modifyinv**.
+
+From the Builder's Wand Repository you need to Download the files from the 1.14 Folder.
+There are two zipfiles: 
 
 **"builders_wand_1.14.zip" and "Builder's Wand Texture.zip"**
 
