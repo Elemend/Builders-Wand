@@ -1,4 +1,4 @@
-setblock ~ ~ ~ minecraft:blue_ice
+setblock ~ ~ ~ minecraft:brain_coral_block
 scoreboard players add #bw_ic bw_calc 1
 scoreboard players remove @s bw_calc 1
 scoreboard players remove #bw_cudu bw_calc 1
