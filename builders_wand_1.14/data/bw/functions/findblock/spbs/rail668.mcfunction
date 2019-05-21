@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:detector_rail[shape=north_south] run scoreboard players set @s bw_block 1483
+execute if block ~ ~ ~ minecraft:detector_rail[shape=east_west] run scoreboard players set @s bw_block 1484
