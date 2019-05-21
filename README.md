@@ -42,7 +42,7 @@ The Items have to have the correct count. It won't work if you throw 3 Sticks or
 Download the files from the 1.14 Folder.
 There are two zipfiles in each Folder. 
 
-**"builders_wand.zip" and "Builder's Wand Texture.zip"**
+**"builders_wand_1.14.zip" and "Builder's Wand Texture.zip"**
 
 Click on these zip files and each time you will be brought to a page with a direct Download Button on the right hand side. Click that and save it. 
 Then open your Minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into.
