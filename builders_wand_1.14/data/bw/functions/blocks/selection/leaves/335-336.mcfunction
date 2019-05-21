@@ -1,0 +1,1 @@
+execute if score @s bw_block matches 335 run function bw:blocks/dimblocks/chorus_flower/prexyz
