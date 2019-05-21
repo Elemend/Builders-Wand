@@ -1,0 +1,6 @@
+execute if score #bw_cudu bw_calc matches 1.. align xyz unless entity @e[dx=0,limit=1] if score @s bw_block matches 1.. run function bw:blocks/selection/id_to_block
+execute if score #bw_madu bw_calc matches ..1600 if score #bw_cudu bw_calc matches 0 run replaceitem entity @s weapon.mainhand air
+execute if score #bw_madu bw_calc matches ..1600 if score #bw_cudu bw_calc matches 1.. store result entity @s SelectedItem.tag.bw_durability[0] int 1 run scoreboard players get #bw_cudu bw_calc
+execute if score #bw_madu bw_calc matches ..1600 if score #bw_cudu bw_calc matches 1.. run data merge block -30000000 0 1603 {Text1:"[{\"text\":\"Durability: \",\"color\":\"white\",\"italic\":false},{\"score\":{\"name\":\"#bw_cudu\",\"objective\":\"bw_calc\"},\"color\":\"white\",\"italic\":false},{\"text\":\" / \",\"color\":\"white\",\"italic\":false},{\"score\":{\"name\":\"#bw_madu\",\"objective\":\"bw_calc\"},\"color\":\"white\",\"italic\":false}]"}
+
+execute if score #bw_madu bw_calc matches ..1600 run data modify entity @s SelectedItem.tag.display.Lore[0] set from block -30000000 0 1603 Text1
