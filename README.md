@@ -49,7 +49,7 @@ There are two zipfiles:
 **"builders_wand_1.14.zip" and "Builder's Wand Texture.zip"**
 
 Click on these zip files and each time you will be brought to a page with a direct Download Button on the right hand side. Click that and save it. 
-Then open your Minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into.
+Then open your Minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into. Minecraft will enable new availabe Datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat.
 
 The Textures for the Wands are provided with a Resourcepack that come with a file named "Builder's Wand Texture.zip". Copy this zip file into your Resourepacks Folder in your Minecraft Directory and activate the Resourcepack in the Game under Options-> Resource Packs. You'll recognise the Texture from the Picture above. If the Resourcepack is not installed, the icon in the advancement tab will show a barrier texture.
 
