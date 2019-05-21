@@ -1,0 +1,2 @@
+execute if score @s bw_block matches 181 run function bw:blocks/ores/lapis/prexyz
+execute if score @s bw_block matches 182 run function bw:blocks/ores/quartz/prexyz
