@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:acacia_button[face=floor,facing=north] run scoreboard players set @s bw_block 619
+execute if block ~ ~ ~ minecraft:acacia_button[face=floor,facing=east] run scoreboard players set @s bw_block 620
+execute if block ~ ~ ~ minecraft:acacia_button[face=floor,facing=south] run scoreboard players set @s bw_block 621
+execute if block ~ ~ ~ minecraft:acacia_button[face=floor,facing=west] run scoreboard players set @s bw_block 622
+execute if block ~ ~ ~ minecraft:acacia_button[face=wall,facing=north] run scoreboard players set @s bw_block 623
+execute if block ~ ~ ~ minecraft:acacia_button[face=wall,facing=east] run scoreboard players set @s bw_block 624
+execute if block ~ ~ ~ minecraft:acacia_button[face=wall,facing=south] run scoreboard players set @s bw_block 625
+execute if block ~ ~ ~ minecraft:acacia_button[face=wall,facing=west] run scoreboard players set @s bw_block 626
+execute if block ~ ~ ~ minecraft:acacia_button[face=ceiling,facing=north] run scoreboard players set @s bw_block 627
+execute if block ~ ~ ~ minecraft:acacia_button[face=ceiling,facing=east] run scoreboard players set @s bw_block 628
+execute if block ~ ~ ~ minecraft:acacia_button[face=ceiling,facing=south] run scoreboard players set @s bw_block 629
+execute if block ~ ~ ~ minecraft:acacia_button[face=ceiling,facing=west] run scoreboard players set @s bw_block 630

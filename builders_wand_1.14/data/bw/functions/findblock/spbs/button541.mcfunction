@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:spruce_button[face=floor,facing=north] run scoreboard players set @s bw_block 667
+execute if block ~ ~ ~ minecraft:spruce_button[face=floor,facing=east] run scoreboard players set @s bw_block 668
+execute if block ~ ~ ~ minecraft:spruce_button[face=floor,facing=south] run scoreboard players set @s bw_block 669
+execute if block ~ ~ ~ minecraft:spruce_button[face=floor,facing=west] run scoreboard players set @s bw_block 670
+execute if block ~ ~ ~ minecraft:spruce_button[face=wall,facing=north] run scoreboard players set @s bw_block 671
+execute if block ~ ~ ~ minecraft:spruce_button[face=wall,facing=east] run scoreboard players set @s bw_block 672
+execute if block ~ ~ ~ minecraft:spruce_button[face=wall,facing=south] run scoreboard players set @s bw_block 673
+execute if block ~ ~ ~ minecraft:spruce_button[face=wall,facing=west] run scoreboard players set @s bw_block 674
+execute if block ~ ~ ~ minecraft:spruce_button[face=ceiling,facing=north] run scoreboard players set @s bw_block 675
+execute if block ~ ~ ~ minecraft:spruce_button[face=ceiling,facing=east] run scoreboard players set @s bw_block 676
+execute if block ~ ~ ~ minecraft:spruce_button[face=ceiling,facing=south] run scoreboard players set @s bw_block 677
+execute if block ~ ~ ~ minecraft:spruce_button[face=ceiling,facing=west] run scoreboard players set @s bw_block 678

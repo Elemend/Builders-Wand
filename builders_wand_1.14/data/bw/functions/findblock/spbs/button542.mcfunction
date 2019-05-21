@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:oak_button[face=floor,facing=north] run scoreboard players set @s bw_block 679
+execute if block ~ ~ ~ minecraft:oak_button[face=floor,facing=east] run scoreboard players set @s bw_block 680
+execute if block ~ ~ ~ minecraft:oak_button[face=floor,facing=south] run scoreboard players set @s bw_block 681
+execute if block ~ ~ ~ minecraft:oak_button[face=floor,facing=west] run scoreboard players set @s bw_block 682
+execute if block ~ ~ ~ minecraft:oak_button[face=wall,facing=north] run scoreboard players set @s bw_block 683
+execute if block ~ ~ ~ minecraft:oak_button[face=wall,facing=east] run scoreboard players set @s bw_block 684
+execute if block ~ ~ ~ minecraft:oak_button[face=wall,facing=south] run scoreboard players set @s bw_block 685
+execute if block ~ ~ ~ minecraft:oak_button[face=wall,facing=west] run scoreboard players set @s bw_block 686
+execute if block ~ ~ ~ minecraft:oak_button[face=ceiling,facing=north] run scoreboard players set @s bw_block 687
+execute if block ~ ~ ~ minecraft:oak_button[face=ceiling,facing=east] run scoreboard players set @s bw_block 688
+execute if block ~ ~ ~ minecraft:oak_button[face=ceiling,facing=south] run scoreboard players set @s bw_block 689
+execute if block ~ ~ ~ minecraft:oak_button[face=ceiling,facing=west] run scoreboard players set @s bw_block 690

@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:stone_button[face=floor,facing=north] run scoreboard players set @s bw_block 691
+execute if block ~ ~ ~ minecraft:stone_button[face=floor,facing=east] run scoreboard players set @s bw_block 692
+execute if block ~ ~ ~ minecraft:stone_button[face=floor,facing=south] run scoreboard players set @s bw_block 693
+execute if block ~ ~ ~ minecraft:stone_button[face=floor,facing=west] run scoreboard players set @s bw_block 694
+execute if block ~ ~ ~ minecraft:stone_button[face=wall,facing=north] run scoreboard players set @s bw_block 695
+execute if block ~ ~ ~ minecraft:stone_button[face=wall,facing=east] run scoreboard players set @s bw_block 696
+execute if block ~ ~ ~ minecraft:stone_button[face=wall,facing=south] run scoreboard players set @s bw_block 697
+execute if block ~ ~ ~ minecraft:stone_button[face=wall,facing=west] run scoreboard players set @s bw_block 698
+execute if block ~ ~ ~ minecraft:stone_button[face=ceiling,facing=north] run scoreboard players set @s bw_block 699
+execute if block ~ ~ ~ minecraft:stone_button[face=ceiling,facing=east] run scoreboard players set @s bw_block 700
+execute if block ~ ~ ~ minecraft:stone_button[face=ceiling,facing=south] run scoreboard players set @s bw_block 701
+execute if block ~ ~ ~ minecraft:stone_button[face=ceiling,facing=west] run scoreboard players set @s bw_block 702
