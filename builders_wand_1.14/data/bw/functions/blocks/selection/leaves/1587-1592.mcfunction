@@ -1,0 +1,2 @@
+execute if score @s bw_block matches ..1589 run function bw:blocks/logs/stripped_dark_oak_wood/prexyz
+execute if score @s bw_block matches 1590.. run function bw:blocks/logs/stripped_jungle_wood/prexyz

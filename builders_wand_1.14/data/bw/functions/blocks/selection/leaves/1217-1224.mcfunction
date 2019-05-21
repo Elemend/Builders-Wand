@@ -1,0 +1,2 @@
+execute if score @s bw_block matches ..1220 run function bw:blocks/oceans/dead_tube_wall_fan/prexyz
+execute if score @s bw_block matches 1221.. run function bw:blocks/oceans/dead_bubble_wall_fan/prexyz
