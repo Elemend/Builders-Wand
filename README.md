@@ -7,7 +7,7 @@ A Recreation of the Better Builder's Wand Mod as a Datapack. For Version 1.14 an
 
 ![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-21_10.36.04.png)
  
-The Icon is the texture of the Builder's Wand. If you don't have the texturepack installed the Icon will show the barrier texture. This is in Accordance to the Conventions of the [Minecraft Datapacks Discord](https://discord.gg/56ySADc)
+The Icon is the texture of the Unbreakable Builder's Wand. If you don't have the texturepack installed the Icon will show the barrier texture. This is in Accordance to the Conventions of the [Minecraft Datapacks Discord](https://discord.gg/56ySADc)
 The description shows that you can type a command into chat: "**/trigger bw_mcxyz set 4**". This command can be used by any player, not just Operators. This command brings up a chat message ingame that you can also read up on in the following:
 _______________________________________________________________________________________________________________________________
 
