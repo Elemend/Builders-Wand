@@ -43,8 +43,8 @@ This Datapack has a dependency on [**Minecraft Phi - Shared Utilities for Minecr
 
 Phi is a Utility Library, split into modules. You will need to install the modules **phi.core** and **phi.modifyinv**.
 
-From the Builder's Wand Repository you need to Download the files from the 1.14 Folder.
-There are two zipfiles: 
+From the Builder's Wand Repository you need to Download the files from the Folder named "1.14".
+There are two zipfiles in there: 
 
 **"builders_wand_1.14.zip" and "Builder's Wand Texture.zip"**
 
