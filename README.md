@@ -25,7 +25,7 @@ The Mode is independent of Player Rotation, instead the player can select the Mo
 
 The Builder's Wands can only extend Lines of Blocks that are already there in the world. You place Blocks with rightclick and you can only place the type of Blocks you're looking at. If you're in Survival Mode you will need to have the appropriate Amount of Items in your Inventory. If you run out of Items, you can't place them anymore, logically. In Creative Mode you can place any Blocks you're looking at, no need to have items in your Inventory. You can't place Blocks inside the Blockspace of where you and other entities are standing, which means you can't suffocate yourself and others.
 
-Placing Blocks won't work for Banners, Beds, Skulls, Monster Egg Blocks, Turtle Eggs and Grass paths. Otherwise every Block in the Game can be placed with this.
+Almost every Block in the Game can be placed with this. I excluded some creative only Blocks, and Banners, Beds, Skulls, Monster Egg Blocks, Turtle Eggs and Grass paths.
 
 
 # Crafting
