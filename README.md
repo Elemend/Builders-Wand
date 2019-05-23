@@ -13,15 +13,28 @@ ________________________________________________________________________________
 
 There are 4 Tiers of Wands, and each has a different Durability and maximum amount of Blocks that it can set at once:
 
-- Stone Builder's Wand, Durability: 130, 5 Blocks at once
-- Iron Builder's Wand, Durability: 250, 9 Blocks at once
-- Diamond Builder's Wand, Durability: 1561, 129 Blocks at once
-- Unbreakable Wand, Inifinite Durability, 1025 Blocks at once
+- Stone Builder's Wand, Durability: 130, 5 Blocks at once:
+
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.49.15.png)
+- Iron Builder's Wand, Durability: 250, 9 Blocks at once:
+
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.49.00.png)
+- Diamond Builder's Wand, Durability: 1561, 129 Blocks at once:
+
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.48.30.png)
+- Unbreakable Wand, Inifinite Durability, 1025 Blocks at once:
+
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.47.57.png)
 
 When the player holds a Wand in the Main Hand it projects Particles onto any surface the player is looking at. Based on the Mode particles will show the Position of where Blocks could be placed.
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.51.04.png)
 
 There are three modes in which the Particles extend in the different spatial Directions, meaning the x,y or z-Direction.
-The Mode is independent of Player Rotation, instead the player can select the Mode through a Chat Message. This Chat Message appears everytime the Player switches a Builder's Wand from the Mainhand into the Offhand. You need an empty Offhand for that. In this Message you'll be given three options: [North-South (X)]  [East-West (Z)] and [Up-Down (Y)]. Click either one of those and the Particles will change, unless you already have that Mode selected. 
+The Mode is independent of Player Rotation, instead the player can select the Mode through a Chat Message. This Chat Message appears everytime the Player switches a Builder's Wand from the Mainhand into the Offhand. You need an empty Offhand for that. 
+
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_18.09.39.png)
+
+In this Message you'll be given three options: [North-South (X)]  [East-West (Z)] and [Up-Down (Y)]. Click either one of those and the Particles will change directions, unless you already have that Mode selected. 
 
 The Builder's Wands can only extend Lines of Blocks that are already there in the world. You place Blocks with rightclick and you can only place the type of Blocks you're looking at. If you're in Survival Mode you will need to have the appropriate Amount of Items in your Inventory. If you run out of Items, you can't place them anymore, logically. In Creative Mode you can place any Blocks you're looking at, no need to have items in your Inventory. You can't place Blocks inside the Blockspace of where you and other entities are standing, which means you can't suffocate yourself and others.
 
