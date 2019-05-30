@@ -38,6 +38,8 @@ Click either one of:  [North-South (X)]   [East-West (Z)]   [Up-Down (Y)]  and t
 
 The Builder's Wands can only extend Lines of Blocks that are already there in the world. You place Blocks with rightclick and you can only place the type of Blocks you're looking at. If you're in Survival Mode you will need to have the appropriate Amount of Items in your Inventory. If you run out of Items, you can't place them anymore, logically. In Creative Mode you can place any Blocks you're looking at, no need to have items in your Inventory. You can't place Blocks inside the Blockspace of where you and other entities are standing, which means you can't suffocate yourself and others.
 
+So in short: only 1-Dimensional Block placing. If you're wondering why it doesn't work in 2 Dimensions, e.g. extending a flat area upwards, that's because I didn't find a good way to make that happen. I tried, I honestly did, but only found ways that are reaching the Limits of what Minecraft Commands are capable of.
+
 Almost every Block in the Game can be placed with this. I excluded some creative only Blocks, and Banners, Beds, Skulls, Monster Egg Blocks, Turtle Eggs and Grass paths.
 
 
