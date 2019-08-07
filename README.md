@@ -35,7 +35,7 @@ The player can select the mode through a chat message. This message appears ever
 
 ![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-08-07_01.17.14.png)
 
-There are 3 different modes: **Line Mode**  **Area Mode** and **Free Mode**
+There are 3 different modes: **Line Mode**,  **Area Mode** and **Free Mode**
 
 In the line mode you have the one-dimensional directions (x,y,z). If you click one of the three options listed it will stick to that mode. To allow dynamic changing between these 3 modes you can click [Line Mode only].
 
