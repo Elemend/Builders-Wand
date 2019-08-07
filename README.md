@@ -52,6 +52,8 @@ Almost every block in the game can be placed with this. I based the selection of
 
 # Crafting
 
+![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-08-07_02.09.24.png)
+
 To obtain the Builder's Wands you will need to use 2 Sticks and one of these Materials: 1 type of stone, 1 Iron Ingot, 1 Diamond or 1 Nether Star. You put the sticks diagonally into a crafting bench, and the material in the top right. The output will show a knowledge book. When you take this from the output it will switch to the correct wand.
 
 
