@@ -44,10 +44,10 @@ The area modes allow placing blocks in two dimensions (xy,xz,yz). If you click o
 Then there is the so called free mode. You get this mode by clicking [Adjust on rotation and available area]. This mode switches between all 6 previous clickable options (x,y,z,xy,xz,yz) based on the rotation of the player and also on the available space at the postion of the block that the player is looking at. 
 
 
-The Builder's Wands can only extend on Blocks that are already there in the world. You place blocks with rightclick and you can only place the type of blocks you're looking at. If you're in survival mode you will need to have the appropriate amount of items in your Inventory. If you run out of Items, you can't place them anymore, logically. In Creative Mode you can place any Blocks you're looking at, no need to have items in your inventory. You can't place blocks inside the blockspace of where you and other entities are standing, which means you can't suffocate yourself and others.
+The Builder's Wands can only extend on Blocks that are already there in the world. You place blocks with rightclick on the block you're looking at. If you're in survival mode you will need to have the appropriate amount of items in your Inventory. If you run out of Items, you can't place them anymore, logically. In Creative Mode you can place blocks without the need to have items in your inventory. You can't place blocks inside the blockspace of where you and other entities are standing, which means you can't suffocate yourself and others.
 
 
-Almost every block in the game can be placed with this. I based the selection of blocks on what you would do in a survival world. Because of that I excluded some creative only blocks, banners, beds, monster skulls, monster egg blocks and turtle eggs.
+Almost every block in the game can be placed with this. I based the selection of blocks on what you would encounter in a survival world, mostly. Because of that I excluded some creative only blocks, banners, beds, monster skulls, monster egg blocks and turtle eggs.
 
 
 # Crafting
@@ -64,7 +64,7 @@ Phi is a Utility Library, split into modules. You will need to install the modul
 ![Tab](https://user-images.githubusercontent.com/41597650/58494553-a1f73400-8175-11e9-8cdc-8c926e12ce36.png)
 
 In phi's repository the filepath to these 2 modules lead to folders simply named "datapack" In the above picture you can see I combined the two folders into one and renamed it to "phi" to keep track of what the folder does. I suggest you do the same. 
-When you do this, one pack.mcmeta file will replace the other which is comepletely normal. As lon as there is a pack.meta file you're fine. 
+When you do this, one pack.mcmeta file will replace the other which is comepletely normal. As long as there is a pack.meta file you're fine. 
 
 Getting the phi installation is the most complicated part, actually.
 From this repository itself you need to download the files from the folder named "1.14".
@@ -89,5 +89,5 @@ The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack
 # Updated 07.08.2019
 
 This is a rather big update since you'll now be able to place blocks in two dimensions.
-I consider this a beta release. There may be Issues, so let me know if something is wrong or doesn't work.
+I consider this a beta release. There will be Issues, so let me know if you find something that's wrong or doesn't work.
 Any suggestions on what could be made better are also welcome.
