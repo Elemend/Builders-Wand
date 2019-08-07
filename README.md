@@ -69,12 +69,15 @@ In phi's repository the filepath to these 2 modules lead to folders simply named
 When you do this, one pack.mcmeta file will replace the other which is comepletely normal. As long as there is a pack.meta file you're fine. 
 
 Getting the phi installation is the most complicated part, actually.
-From this repository itself you need to download the files from the folder named "1.14".
+From this repository itself you can download the files from the folder named "1.14".
 There are two zipfiles in there: 
 
 **"builders_wand.zip" and "Builder's Wand Texture.zip"**
 
-Click on these zip files and each time you will be brought to a page with a direct download button on the right hand side. Click that and save the files. 
+Or you go here:
+![Download](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v0.8)
+
+Click on these zip files, save them.
 Then open your minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. I suggest you run the reload command just in case.
 
 The textures for the wands are provided with a resourcepack that come with a file named "Builder's Wand Texture.zip". Copy this zip file into your resourepacks folder in your minecraft directory and activate the resourcepack in the game under options-> resource Packs. You'll recognise the texture from the picture above. If the resourcepack is not installed, the icon in the advancement tab will show a barrier texture and you'll have carrot on a stick items.
