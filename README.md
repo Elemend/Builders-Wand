@@ -75,7 +75,7 @@ There are two zipfiles in there:
 **"builders_wand.zip" and "Builder's Wand Texture.zip"**
 
 Or you go here:
-![Download](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v0.8)
+![Download](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v0.9)
 
 Click on these zip files, save them.
 Then open your minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. I suggest you run the reload command just in case.
@@ -91,8 +91,7 @@ This will remove the scoreboards that were added to make it work. Then you can c
 
 The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs. If there is a Case of incompatible datapacks because of these Values, let me know which Datapack and I'll make them work with this Datapack.
 
-# Updated 07.08.2019
+# Updated 14.08.2019
 
-This is a rather big update since you'll now be able to place blocks in two dimensions.
-I consider this a beta release. There will be Issues, so let me know if you find something that's wrong or doesn't work.
+This is a Pre-Release. There may be some Issues left, so let me know if you find something that's wrong or doesn't work.
 Any suggestions on what could be made better are also welcome.
