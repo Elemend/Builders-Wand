@@ -69,13 +69,11 @@ In phi's repository the filepath to these 2 modules lead to folders simply named
 When you do this, one pack.mcmeta file will replace the other which is comepletely normal. As long as there is a pack.meta file you're fine. 
 
 Getting the phi installation is the most complicated part, actually.
-From this repository itself you can download the files from the folder named "1.14".
-There are two zipfiles in there: 
-
-**"builders_wand.zip" and "Builder's Wand Texture.zip"**
-
-Or you go here:
+From this repository itself you can download the files from here:
 ![Download](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v0.9)
+
+There the two zip files are highlighted.
+**"builders_wand.zip" and "Builder's Wand Texture.zip"**
 
 Click on these zip files, save them.
 Then open your minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. I suggest you run the reload command just in case.
