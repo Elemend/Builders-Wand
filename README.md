@@ -70,7 +70,8 @@ When you do this, one pack.mcmeta file will replace the other which is comeplete
 
 Getting the phi installation is the most complicated part, actually.
 From this repository itself you can download the files from here:
-![Download](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v0.96)
+
+[**Download**](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v1.0)
 
 There the two zip files are highlighted.
 **"builders_wand.zip" and "Builder's Wand Texture.zip"**
