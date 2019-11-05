@@ -62,18 +62,10 @@ To obtain the Builder's Wands you will need to use 2 Sticks and one of these Mat
 
 This Datapack has a dependency on [**Minecraft Phi - Shared Utilities for Minecraft Datapacks**](https://github.com/MinecraftPhi/MinecraftPhi-modules).  
 
-Phi is a Utility Library, split into modules. You will need to install the modules **phi.core** and **phi.modifyinv**.
-![Tab](https://user-images.githubusercontent.com/41597650/58494553-a1f73400-8175-11e9-8cdc-8c926e12ce36.png)
+Phi is a Utility Library, split into modules. It's already added into the Builder's Wand Download. When starting the game for the first time with the datapack, Ingame you will be asked to load chunks. Other than that you don't need to edit anything more.
+[**Download**](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v1.1)
 
-In phi's repository the filepath to these 2 modules lead to folders simply named "datapack" In the above picture you can see I combined the two folders into one and renamed it to "phi" to keep track of what the folder does. I suggest you do the same. 
-When you do this, one pack.mcmeta file will replace the other which is comepletely normal. As long as there is a pack.meta file you're fine. 
-
-Getting the phi installation is the most complicated part, actually.
-From this repository itself you can download the files from here:
-
-[**Download**](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v1.0)
-
-There the two zip files are highlighted.
+The the two zip files from the top is what you'll need.
 **"builders_wand.zip" and "Builder's Wand Texture.zip"**
 
 Click on these zip files, save them.
@@ -90,6 +82,6 @@ This will remove the scoreboards that were added to make it work. Then you can c
 
 The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs. If there is a Case of incompatible datapacks because of these Values, let me know which Datapack and I'll make them work with this Datapack.
 
-# Updated 27.09.2019
+# Updated 05.11.2019
 
-This is the Full Release. If you find an Issue let me know.
+Fixed some Bugs and added Phi directly into the download.
