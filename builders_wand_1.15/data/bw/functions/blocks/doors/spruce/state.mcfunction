@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1663 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=left,facing=north]
+execute if score @s bw_block matches 1663 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=left,facing=north]
+execute if score @s bw_block matches 1664 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=left,facing=east]
+execute if score @s bw_block matches 1664 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=left,facing=east]
+execute if score @s bw_block matches 1665 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=left,facing=west]
+execute if score @s bw_block matches 1665 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=left,facing=west]
+execute if score @s bw_block matches 1666 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=left,facing=south]
+execute if score @s bw_block matches 1666 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=left,facing=south]
+execute if score @s bw_block matches 1667 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=right,facing=north]
+execute if score @s bw_block matches 1667 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=right,facing=north]
+execute if score @s bw_block matches 1668 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=right,facing=east]
+execute if score @s bw_block matches 1668 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=right,facing=east]
+execute if score @s bw_block matches 1669 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=right,facing=west]
+execute if score @s bw_block matches 1669 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=right,facing=west]
+execute if score @s bw_block matches 1670 run setblock -30000000 1 1610 minecraft:spruce_door[half=lower,hinge=right,facing=south]
+execute if score @s bw_block matches 1670 run setblock -30000000 2 1610 minecraft:spruce_door[half=upper,hinge=right,facing=south]
+function bw:blocks/doors/spruce/set
+playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8

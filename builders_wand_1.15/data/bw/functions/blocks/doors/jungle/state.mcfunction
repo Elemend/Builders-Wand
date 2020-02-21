@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1647 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=left,facing=north]
+execute if score @s bw_block matches 1647 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=left,facing=north]
+execute if score @s bw_block matches 1648 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=left,facing=east]
+execute if score @s bw_block matches 1648 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=left,facing=east]
+execute if score @s bw_block matches 1649 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=left,facing=west]
+execute if score @s bw_block matches 1649 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=left,facing=west]
+execute if score @s bw_block matches 1650 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=left,facing=south]
+execute if score @s bw_block matches 1650 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=left,facing=south]
+execute if score @s bw_block matches 1651 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=right,facing=north]
+execute if score @s bw_block matches 1651 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=right,facing=north]
+execute if score @s bw_block matches 1652 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=right,facing=east]
+execute if score @s bw_block matches 1652 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=right,facing=east]
+execute if score @s bw_block matches 1653 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=right,facing=west]
+execute if score @s bw_block matches 1653 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=right,facing=west]
+execute if score @s bw_block matches 1654 run setblock -30000000 1 1610 minecraft:jungle_door[half=lower,hinge=right,facing=south]
+execute if score @s bw_block matches 1654 run setblock -30000000 2 1610 minecraft:jungle_door[half=upper,hinge=right,facing=south]
+function bw:blocks/doors/jungle/set
+playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8

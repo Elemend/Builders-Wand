@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1655 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=left,facing=north]
+execute if score @s bw_block matches 1655 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=left,facing=north]
+execute if score @s bw_block matches 1656 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=left,facing=east]
+execute if score @s bw_block matches 1656 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=left,facing=east]
+execute if score @s bw_block matches 1657 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=left,facing=west]
+execute if score @s bw_block matches 1657 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=left,facing=west]
+execute if score @s bw_block matches 1658 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=left,facing=south]
+execute if score @s bw_block matches 1658 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=left,facing=south]
+execute if score @s bw_block matches 1659 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=right,facing=north]
+execute if score @s bw_block matches 1659 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=right,facing=north]
+execute if score @s bw_block matches 1660 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=right,facing=east]
+execute if score @s bw_block matches 1660 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=right,facing=east]
+execute if score @s bw_block matches 1661 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=right,facing=west]
+execute if score @s bw_block matches 1661 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=right,facing=west]
+execute if score @s bw_block matches 1662 run setblock -30000000 1 1610 minecraft:oak_door[half=lower,hinge=right,facing=south]
+execute if score @s bw_block matches 1662 run setblock -30000000 2 1610 minecraft:oak_door[half=upper,hinge=right,facing=south]
+function bw:blocks/doors/oak/set
+playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8
