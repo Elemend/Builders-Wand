@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bw:wands/unbreakable_wand"
+				
+			}
+		}
+	},
+	"rewards": {
+		"function": "bw:craft/unbreakable_wand"
+	}
+}

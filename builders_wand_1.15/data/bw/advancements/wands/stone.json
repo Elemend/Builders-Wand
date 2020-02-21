@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bw:wands/stone_wand"
+				
+			}
+		}
+	},
+	"rewards": {
+		"function": "bw:craft/stone_wand"
+	}
+}
