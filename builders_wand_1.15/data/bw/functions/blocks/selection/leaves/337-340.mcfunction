@@ -1,0 +1,1 @@
+execute if score @s bw_block matches 337 run function bw:blocks/randoms/honeycomb_block/prexyz
