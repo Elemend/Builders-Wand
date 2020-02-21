@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1623 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=left,facing=north]
+execute if score @s bw_block matches 1623 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=left,facing=north]
+execute if score @s bw_block matches 1624 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=left,facing=east]
+execute if score @s bw_block matches 1624 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=left,facing=east]
+execute if score @s bw_block matches 1625 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=left,facing=west]
+execute if score @s bw_block matches 1625 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=left,facing=west]
+execute if score @s bw_block matches 1626 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=left,facing=south]
+execute if score @s bw_block matches 1626 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=left,facing=south]
+execute if score @s bw_block matches 1627 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=right,facing=north]
+execute if score @s bw_block matches 1627 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=right,facing=north]
+execute if score @s bw_block matches 1628 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=right,facing=east]
+execute if score @s bw_block matches 1628 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=right,facing=east]
+execute if score @s bw_block matches 1629 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=right,facing=west]
+execute if score @s bw_block matches 1629 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=right,facing=west]
+execute if score @s bw_block matches 1630 run setblock -30000000 1 1610 minecraft:acacia_door[half=lower,hinge=right,facing=south]
+execute if score @s bw_block matches 1630 run setblock -30000000 2 1610 minecraft:acacia_door[half=upper,hinge=right,facing=south]
+function bw:blocks/doors/acacia/set
+playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8

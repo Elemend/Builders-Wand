@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1639 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=left,facing=north]
+execute if score @s bw_block matches 1639 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=left,facing=north]
+execute if score @s bw_block matches 1640 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=left,facing=east]
+execute if score @s bw_block matches 1640 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=left,facing=east]
+execute if score @s bw_block matches 1641 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=left,facing=west]
+execute if score @s bw_block matches 1641 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=left,facing=west]
+execute if score @s bw_block matches 1642 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=left,facing=south]
+execute if score @s bw_block matches 1642 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=left,facing=south]
+execute if score @s bw_block matches 1643 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=right,facing=north]
+execute if score @s bw_block matches 1643 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=right,facing=north]
+execute if score @s bw_block matches 1644 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=right,facing=east]
+execute if score @s bw_block matches 1644 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=right,facing=east]
+execute if score @s bw_block matches 1645 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=right,facing=west]
+execute if score @s bw_block matches 1645 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=right,facing=west]
+execute if score @s bw_block matches 1646 run setblock -30000000 1 1610 minecraft:dark_oak_door[half=lower,hinge=right,facing=south]
+execute if score @s bw_block matches 1646 run setblock -30000000 2 1610 minecraft:dark_oak_door[half=upper,hinge=right,facing=south]
+function bw:blocks/doors/dark_oak/set
+playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8
