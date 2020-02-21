@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:lever[face=floor,facing=north] run scoreboard players set @s bw_block 703
+execute if block ~ ~ ~ minecraft:lever[face=floor,facing=east] run scoreboard players set @s bw_block 704
+execute if block ~ ~ ~ minecraft:lever[face=floor,facing=south] run scoreboard players set @s bw_block 705
+execute if block ~ ~ ~ minecraft:lever[face=floor,facing=west] run scoreboard players set @s bw_block 706
+execute if block ~ ~ ~ minecraft:lever[face=wall,facing=north] run scoreboard players set @s bw_block 707
+execute if block ~ ~ ~ minecraft:lever[face=wall,facing=east] run scoreboard players set @s bw_block 708
+execute if block ~ ~ ~ minecraft:lever[face=wall,facing=south] run scoreboard players set @s bw_block 709
+execute if block ~ ~ ~ minecraft:lever[face=wall,facing=west] run scoreboard players set @s bw_block 710
+execute if block ~ ~ ~ minecraft:lever[face=ceiling,facing=north] run scoreboard players set @s bw_block 711
+execute if block ~ ~ ~ minecraft:lever[face=ceiling,facing=east] run scoreboard players set @s bw_block 712
+execute if block ~ ~ ~ minecraft:lever[face=ceiling,facing=south] run scoreboard players set @s bw_block 713
+execute if block ~ ~ ~ minecraft:lever[face=ceiling,facing=west] run scoreboard players set @s bw_block 714

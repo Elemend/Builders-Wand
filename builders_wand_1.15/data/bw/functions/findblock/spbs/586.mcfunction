@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:bell[attachment=floor,facing=north] run scoreboard players set @s bw_block 986
+execute if block ~ ~ ~ minecraft:bell[attachment=floor,facing=east] run scoreboard players set @s bw_block 987
+execute if block ~ ~ ~ minecraft:bell[attachment=floor,facing=south] run scoreboard players set @s bw_block 988
+execute if block ~ ~ ~ minecraft:bell[attachment=floor,facing=west] run scoreboard players set @s bw_block 989
+execute if block ~ ~ ~ minecraft:bell[attachment=ceiling,facing=north] run scoreboard players set @s bw_block 990
+execute if block ~ ~ ~ minecraft:bell[attachment=ceiling,facing=east] run scoreboard players set @s bw_block 991
+execute if block ~ ~ ~ minecraft:bell[attachment=ceiling,facing=south] run scoreboard players set @s bw_block 992
+execute if block ~ ~ ~ minecraft:bell[attachment=ceiling,facing=west] run scoreboard players set @s bw_block 993
+execute if block ~ ~ ~ minecraft:bell[attachment=single_wall,facing=north] run scoreboard players set @s bw_block 994
+execute if block ~ ~ ~ minecraft:bell[attachment=single_wall,facing=east] run scoreboard players set @s bw_block 995
+execute if block ~ ~ ~ minecraft:bell[attachment=single_wall,facing=south] run scoreboard players set @s bw_block 996
+execute if block ~ ~ ~ minecraft:bell[attachment=single_wall,facing=west] run scoreboard players set @s bw_block 997
+execute if block ~ ~ ~ minecraft:bell[attachment=double_wall,facing=north] run scoreboard players set @s bw_block 998
+execute if block ~ ~ ~ minecraft:bell[attachment=double_wall,facing=east] run scoreboard players set @s bw_block 999
+execute if block ~ ~ ~ minecraft:bell[attachment=double_wall,facing=south] run scoreboard players set @s bw_block 1000
+execute if block ~ ~ ~ minecraft:bell[attachment=double_wall,facing=west] run scoreboard players set @s bw_block 1001
