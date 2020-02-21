@@ -1,9 +1,0 @@
-function phi.modifyinv:setup/whole_inventory
-function phi.modifyinv:load/hotbar
-function phi.modifyinv:drop/hotbar
-function phi.modifyinv:load/inventory
-function phi.modifyinv:drop/inventory
-function phi.modifyinv:load/armor
-function phi.modifyinv:drop/armor
-function phi.modifyinv:load/offhand
-function phi.modifyinv:drop/offhand
