@@ -1,1 +1,0 @@
-loot spawn ~ ~ ~ mine -30000000 0 1602 minecraft:air{drop_contents:1b}
