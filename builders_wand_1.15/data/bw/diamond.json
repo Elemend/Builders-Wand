@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bw:wands/diamond_wand"
+				
+			}
+		}
+	},
+	"rewards": {
+		"function": "bw:craft/diamond_wand"
+	}
+}
