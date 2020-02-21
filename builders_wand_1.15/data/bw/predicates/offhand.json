@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:entity_properties",
+  "predicate": {
+    "equipment": {
+      "offhand": {
+        "item": "minecraft:carrot_on_a_stick"
+      }
+    }
+  },
+  "entity": "this"
+}
