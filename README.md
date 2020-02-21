@@ -64,10 +64,12 @@ This Datapack has a dependency on [**Minecraft Phi - Shared Utilities for Minecr
 
 Phi is a Utility Library, split into modules. It's already added into the Builder's Wand Download. When starting the game for the first time with the datapack, Ingame you will be asked to load chunks. Other than that you don't need to edit anything more.
 
-[**Download**](https://github.com/Elemend/Builders-Wand-1.14/releases/tag/v1.1)
+[**Download for 1.14**](https://github.com/Elemend/Builders-Wand/releases/tag/v1.1)
+
+[**Download for 1.15**](https://github.com/Elemend/Builders-Wand/releases/tag/1.15)
 
 The the two zip files from the top is what you'll need.
-**"builders_wand.zip" and "Builder's Wand Texture.zip"**
+**"builders_wand_1.XX.zip" and "Builder's Wand Texture.zip"**
 
 Click on these zip files, save them.
 Then open your minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. I suggest you run the reload command just in case.
@@ -83,6 +85,10 @@ This will remove the scoreboards that were added to make it work. Then you can c
 
 The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs. If there is a Case of incompatible datapacks because of these Values, let me know which Datapack and I'll make them work with this Datapack.
 
-# Updated 05.11.2019
+# Updated 21.02.2020
 
-Fixed some Bugs and added Phi directly into the download.
+Updated the datapack to use 1.15 commands/predicates
+
+# Known Problems:
+
+If you're on Minecraft REALMS, predicates don't work.
