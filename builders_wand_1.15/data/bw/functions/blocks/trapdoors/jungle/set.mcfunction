@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1519 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=bottom,facing=north,waterlogged=false]
+execute if score @s bw_block matches 1519 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=bottom,facing=north,waterlogged=true]
+execute if score @s bw_block matches 1520 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=bottom,facing=east,waterlogged=false]
+execute if score @s bw_block matches 1520 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=bottom,facing=east,waterlogged=true]
+execute if score @s bw_block matches 1521 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=bottom,facing=west,waterlogged=false]
+execute if score @s bw_block matches 1521 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=bottom,facing=west,waterlogged=true]
+execute if score @s bw_block matches 1522 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=bottom,facing=south,waterlogged=false]
+execute if score @s bw_block matches 1522 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=bottom,facing=south,waterlogged=true]
+execute if score @s bw_block matches 1523 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=top,facing=north,waterlogged=false]
+execute if score @s bw_block matches 1523 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=top,facing=north,waterlogged=true]
+execute if score @s bw_block matches 1524 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=top,facing=east,waterlogged=false]
+execute if score @s bw_block matches 1524 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=top,facing=east,waterlogged=true]
+execute if score @s bw_block matches 1525 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=top,facing=west,waterlogged=false]
+execute if score @s bw_block matches 1525 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=top,facing=west,waterlogged=true]
+execute if score @s bw_block matches 1526 run setblock -30000000 2 1610 minecraft:jungle_trapdoor[half=top,facing=south,waterlogged=false]
+execute if score @s bw_block matches 1526 run setblock -30000000 1 1610 minecraft:jungle_trapdoor[half=top,facing=south,waterlogged=true]
+function bw:waterstate/direction
+execute if score @s bw_calc matches 1.. run playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8

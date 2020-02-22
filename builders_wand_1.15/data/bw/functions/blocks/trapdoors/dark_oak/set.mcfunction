@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1511 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=north,waterlogged=false]
+execute if score @s bw_block matches 1511 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=north,waterlogged=true]
+execute if score @s bw_block matches 1512 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=east,waterlogged=false]
+execute if score @s bw_block matches 1512 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=east,waterlogged=true]
+execute if score @s bw_block matches 1513 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=west,waterlogged=false]
+execute if score @s bw_block matches 1513 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=west,waterlogged=true]
+execute if score @s bw_block matches 1514 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=south,waterlogged=false]
+execute if score @s bw_block matches 1514 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=bottom,facing=south,waterlogged=true]
+execute if score @s bw_block matches 1515 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=top,facing=north,waterlogged=false]
+execute if score @s bw_block matches 1515 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=top,facing=north,waterlogged=true]
+execute if score @s bw_block matches 1516 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=top,facing=east,waterlogged=false]
+execute if score @s bw_block matches 1516 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=top,facing=east,waterlogged=true]
+execute if score @s bw_block matches 1517 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=top,facing=west,waterlogged=false]
+execute if score @s bw_block matches 1517 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=top,facing=west,waterlogged=true]
+execute if score @s bw_block matches 1518 run setblock -30000000 2 1610 minecraft:dark_oak_trapdoor[half=top,facing=south,waterlogged=false]
+execute if score @s bw_block matches 1518 run setblock -30000000 1 1610 minecraft:dark_oak_trapdoor[half=top,facing=south,waterlogged=true]
+function bw:waterstate/direction
+execute if score @s bw_calc matches 1.. run playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8

@@ -1,0 +1,18 @@
+execute if score @s bw_block matches 1495 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=bottom,facing=north,waterlogged=false]
+execute if score @s bw_block matches 1495 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=bottom,facing=north,waterlogged=true]
+execute if score @s bw_block matches 1496 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=bottom,facing=east,waterlogged=false]
+execute if score @s bw_block matches 1496 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=bottom,facing=east,waterlogged=true]
+execute if score @s bw_block matches 1497 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=bottom,facing=west,waterlogged=false]
+execute if score @s bw_block matches 1497 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=bottom,facing=west,waterlogged=true]
+execute if score @s bw_block matches 1498 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=bottom,facing=south,waterlogged=false]
+execute if score @s bw_block matches 1498 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=bottom,facing=south,waterlogged=true]
+execute if score @s bw_block matches 1499 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=top,facing=north,waterlogged=false]
+execute if score @s bw_block matches 1499 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=top,facing=north,waterlogged=true]
+execute if score @s bw_block matches 1500 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=top,facing=east,waterlogged=false]
+execute if score @s bw_block matches 1500 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=top,facing=east,waterlogged=true]
+execute if score @s bw_block matches 1501 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=top,facing=west,waterlogged=false]
+execute if score @s bw_block matches 1501 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=top,facing=west,waterlogged=true]
+execute if score @s bw_block matches 1502 run setblock -30000000 2 1610 minecraft:acacia_trapdoor[half=top,facing=south,waterlogged=false]
+execute if score @s bw_block matches 1502 run setblock -30000000 1 1610 minecraft:acacia_trapdoor[half=top,facing=south,waterlogged=true]
+function bw:waterstate/direction
+execute if score @s bw_calc matches 1.. run playsound minecraft:block.wood.place block @s ~ ~ ~ 1 0.8
