@@ -85,9 +85,9 @@ This will remove the scoreboards that were added to make it work. Then you can c
 
 The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs. If there is a Case of incompatible datapacks because of these Values, let me know which Datapack and I'll make them work with this Datapack.
 
-# Updated 21.02.2020
+# Updated 28.03.2020
 
-Updated the datapack to use 1.15 commands/predicates
+updated the advancement background to gray concrete, in accordance to new datapack conventions.
 
 # Known Problems:
 
