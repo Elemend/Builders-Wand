@@ -72,18 +72,18 @@ The the two zip files from the top is what you'll need.
 **"builders_wand_1.XX.zip" and "Builder's Wand Texture.zip"**
 
 Click on these zip files, save them.
-Then open your minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand.zip" needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. I suggest you run the reload command just in case.
+Then open your minecraft directory, where the savefile for your world is saved. Your worldsave contains a folder "datapacks", where the zipfile named: "builders_wand_1.xx.zip" needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. If it doesn't show up, try the reload command first.
 
-The textures for the wands are provided with a resourcepack that come with a file named "Builder's Wand Texture.zip". Copy this zip file into your resourepacks folder in your minecraft directory and activate the resourcepack in the game under options-> resource Packs. You'll recognise the texture from the picture above. If the resourcepack is not installed, the icon in the advancement tab will show a barrier texture and you'll have carrot on a stick items.
+The textures for the wands are provided with a resourcepack that comes as a file named "Builder's Wand Texture.zip". Copy this into your resourepacks folder in your minecraft directory and activate the resourcepack in the game under options-> resource packs. You'll recognise the texture from the picture above. If the resourcepack is not installed, the icon in the advancement tab will show a barrier texture and you'll have carrot on a stick items.
 
 # Uninstall
 
-To completely remove this datapack from your world, you need to execute a function from chat: /function bw:uninstall_bw
-This will remove the scoreboards that were added to make it work. Then you can close the world and delete the zip file "builders_wand.zip". It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
+To completely remove this datapack from your world you'll need to run a function from chat: `/function bw:uninstall_bw`
+This will remove the scoreboards that were added to make it work. Then you can close the world and delete the zip file. It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
 
 # Technical/Other
 
-The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs. If there is a Case of incompatible datapacks because of these Values, let me know which Datapack and I'll make them work with this Datapack.
+The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs.
 
 # Updated 28.03.2020
 
