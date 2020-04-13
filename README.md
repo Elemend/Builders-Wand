@@ -1,4 +1,4 @@
-# Builders-Wand-1.14 / 1.15
+# Builders-Wand-1.14 / 1.15 / 1.16(Snapshot)
 An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15.
 Last tested in 1.15.2
 
