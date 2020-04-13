@@ -68,6 +68,8 @@ Phi is a Utility Library, split into modules. It's already added into the Builde
 
 [**Download for 1.15**](https://github.com/Elemend/Builders-Wand/releases/tag/1.15)
 
+[**Download for 1.16-(Snapshot)**](https://github.com/Elemend/Builders-Wand/releases/tag/1.16)
+
 The the two zip files from the top is what you'll need.
 **"builders_wand_1.XX.zip" and "Builder's Wand Texture.zip"**
 
