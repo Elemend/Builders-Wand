@@ -1,15 +1,14 @@
-# Builders-Wand-1.14 / 1.15 / 1.16(Snapshot)
-An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15.
-Last tested in 1.15.2
+# Builders-Wand-1.14 / 1.15 / 1.16(Snapshot 20w15a)
+An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16
 
 
 
 # If this Datapack is installed, a new advancement tab shows up to let you know it's installed. 
 
-![Tab](https://github.com/Elemend/Builders-Wand/blob/master/Pictures/2020-03-28_22.00.49.png)
+![Tab](https://github.com/Elemend/Builders-Wand/blob/master/Pictures/2020-04-19_10.16.44.png)
  
 The icon is the texture of the Unbreakable Builder's Wand. If you don't have the texturepack installed the Icon will show the barrier texture. This is in accordance to the conventions of the [Minecraft Datapacks Discord](https://discord.gg/56ySADc)
-The description shows that you can type a command into chat: "**/trigger bw_mcxyz set 8**". This command can be used by any player, which is important as it gives an indication how to use it without the need to be opped. It gives a chat message ingame that you can also read up on in the following:
+The description shows that you can type a command into chat: "**/trigger bw_mcxyz set 1**". This command can be used by any player, which is important as it gives an indication how to use it without the need to be opped. It gives a chat message ingame that you can also read up on in the following:
 _______________________________________________________________________________________________________________________________
 
 There are 4 tiers of wands, and each has a different durability and maximum amount of blocks that it can set at once:
@@ -85,12 +84,12 @@ This will remove the scoreboards that were added to make it work. Then you can c
 
 # Technical/Other
 
-The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 830222, 830223, 830224 and 830225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs.
+The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 690222, 690223, 690224 and 690225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs.
 
-# Updated 13.04.2020
+# Updated 19.04.2020
 
-updated to 1.16 snapshot as of Version 20w15a.
+Fixed some Bugs and made it conform to the latest datapacks standard.
 
 # Known Problems:
 
-If you're on Minecraft REALMS, predicates don't work. If "REALMS-1805" is fixed this datapack will also work on Realms.
+If you're on Minecraft REALMS, predicates don't work. If the Bug: "REALMS-1805" is fixed this datapack will also work on Realms.
