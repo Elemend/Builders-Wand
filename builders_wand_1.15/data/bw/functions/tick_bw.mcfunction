@@ -1,1 +1,1 @@
-execute as @a[gamemode=!spectator] run function bw:playerinput
+execute as @a[gamemode=!spectator,tag=!global.ignore,tag=!global.ignore.gui] run function bw:playerinput
