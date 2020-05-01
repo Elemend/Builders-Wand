@@ -1,5 +1,5 @@
-# Builders-Wand-1.14 / 1.15 / 1.16(Snapshot 20w15a)
-An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16
+# Builders-Wand-1.14 / 1.15 / 1.16(Snapshot 20w18a)
+An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16(20w18a)
 
 
 
@@ -86,10 +86,10 @@ This will remove the scoreboards that were added to make it work. Then you can c
 
 The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 690222, 690223, 690224 and 690225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs.
 
-# Updated 19.04.2020
+# Updated 01.05.2020
 
-Fixed some Bugs and made it conform to the latest datapacks standard.
+Updated to the latest Snapshot
 
 # Known Problems:
 
-If you're on Minecraft REALMS, predicates don't work. If the Bug: "REALMS-1805" is fixed this datapack will also work on Realms.
+If you're on Minecraft REALMS, predicates don't work and as a consequence, this datapack won't either. If the Bug: "REALMS-1805" is fixed this datapack will (propably) work on Realms.
