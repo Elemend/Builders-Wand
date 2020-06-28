@@ -1,5 +1,5 @@
-# Builders-Wand-1.14 / 1.15 / 1.16(Snapshot 20w18a)
-An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16(20w18a)
+# Builders-Wand-1.14 / 1.15 / 1.16
+An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16.x
 
 
 
@@ -67,7 +67,7 @@ Phi is a Utility Library, split into modules. It's already added into the Builde
 
 [**Download for 1.15**](https://github.com/Elemend/Builders-Wand/releases/tag/1.15)
 
-[**Download for 1.16-(Snapshot)**](https://github.com/Elemend/Builders-Wand/releases/tag/1.16)
+[**Download for 1.16**](https://github.com/Elemend/Builders-Wand/releases/tag/1.16)
 
 The the two zip files from the top is what you'll need.
 **"builders_wand_1.XX.zip" and "Builder's Wand Texture.zip"**
@@ -85,10 +85,6 @@ This will remove the scoreboards that were added to make it work. Then you can c
 # Technical/Other
 
 The Wands are retextured Carrot on a Stick Items. To texture it, the texturepack uses CustomModelData. The Values I'm using are 690222, 690223, 690224 and 690225. This makes it incompatible with other datapacks which use CustomModelData for their carrot on a stick items. It can be made compatible by combining the Resourcepacks from either Packs.
-
-# Updated 01.05.2020
-
-Updated to the latest Snapshot
 
 # Known Problems:
 
