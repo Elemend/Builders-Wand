@@ -1,7 +1,7 @@
 # Builders-Wand-1.14 / 1.15 / 1.16
 An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16.x
 
-
+This Datapack uses code from [**Minecraft Phi - Shared Utilities for Minecraft Datapacks**](https://github.com/MinecraftPhi/MinecraftPhi-modules).  
 
 # If this Datapack is installed, a new advancement tab shows up to let you know it's installed. 
 
@@ -59,9 +59,7 @@ To obtain the Builder's Wands you will need to use 2 Sticks and one of these Mat
 
 # Installation
 
-This Datapack has a dependency on [**Minecraft Phi - Shared Utilities for Minecraft Datapacks**](https://github.com/MinecraftPhi/MinecraftPhi-modules).  
-
-Phi is a Utility Library, split into modules. It's already added into the Builder's Wand Download. When starting the game for the first time with the datapack, Ingame you will be asked to load chunks. Other than that you don't need to edit anything more.
+Click on the links that match the Minecraft Version you're playing:
 
 [**Download for 1.14**](https://github.com/Elemend/Builders-Wand/releases/tag/v1.1)
 
