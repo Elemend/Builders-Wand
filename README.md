@@ -1,5 +1,5 @@
 # Builders-Wand-1.14 / 1.15 / 1.16
-An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16.x
+An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15 and 1.16.2
 
 This Datapack uses code from [**Minecraft Phi - Shared Utilities for Minecraft Datapacks**](https://github.com/MinecraftPhi/MinecraftPhi-modules).  
 
