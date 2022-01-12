@@ -1,3 +1,5 @@
+# There will be no Version for 1.18 and following.
+
 # Builders-Wand - for Versions 1.14 / 1.15 / 1.16 / 1.17+
 An actual attempt at recreating of the Better Builder's Wand Mod as a Datapack. For Versions 1.14, 1.15, 1.16 and 1.17
 
