@@ -10,7 +10,7 @@ There are 5 tiers of wands, and each has a different durability and maximum amou
 - Netherite Builder's Wand, Durability: 2031, 266 Blocks.
 - Unbreakable Wand, Inifinite Durability, 1025 Blocks at once.
 
-![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.47.57.png)
+![Tab](https://github.com/Elemend/Builders-Wand/blob/master/Pictures/2kjbkh15.gif)
 
 When the player holds a wand in the mainhand it projects particles onto any surface the player is looking at. Based on the mode particles will show the position of where blocks could be placed.
 ![Tab](https://github.com/Elemend/Builders-Wand-1.14/blob/master/Pictures/2019-05-23_17.51.04.png)
@@ -35,4 +35,4 @@ Almost every block in the game can be placed with this. I based the selection of
 
 # Crafting
 
-To obtain the Builder's Wands you will need to use 2 Sticks and one of these Materials: 1 stone, 1 Iron Ingot, 1 Diamond, 1 Netherite Ingot or 1 Nether Star. You put the sticks diagonally into a crafting bench, and the material in the top right. In Version 2.1, with the addition of spears you need to additionally use 2 string left and down from the material to craft a wand. With the texture pack installed, the output will show the correct wand.
+To obtain the Builder's Wands you will need to use 1 Stick, 1 String and one of these Materials: 1 stone, 1 Iron Ingot, 1 Diamond, 1 Netherite Ingot or 1 Nether Star. You put the sticks diagonally into a crafting bench, as seen above in the gif. With the addition of spears the recipe had to change. With the texture pack installed, the output will show the correct wand, otherwise you'd see a poisonous potato.
